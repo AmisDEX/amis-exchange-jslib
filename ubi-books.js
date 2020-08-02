@@ -52,6 +52,11 @@ exports.networkInfo = {
     name: "Kovan Test Network",
     liveness: "TEST"
   },
+  "61": {
+    networkId: "61",
+    name: "ETC Main Network",
+    liveness: "LIVE"
+  },
   "1": {
     networkId: "1",
     name: "Main Network",
